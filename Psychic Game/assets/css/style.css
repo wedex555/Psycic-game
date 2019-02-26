@@ -1,0 +1,43 @@
+
+
+#wins {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+   
+}
+#losses {
+    color:red;
+
+}
+
+#guesses {
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#letters-guessed { 
+    color:magenta;
+    font-style: oblique;
+}
+
+#alert-massege{
+    color:red;
+    font-family:  sans-serif;
+    font-size: 30px;
+}
+.container{
+    font-size: 20px;
+    margin-top:120px;
+    margin-left: 120px;
+    font-style: oblique;
+  
+}
+body{
+    background-color: rgb(127, 216, 219);
+}
+#psycic{ font-size: 30px;
+    margin-top: 120px;
+    margin-left: 120px;
+
+}
